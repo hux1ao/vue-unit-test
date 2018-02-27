@@ -10,12 +10,12 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js Apps'
+      msg: 'Welcome to Your Vue.js App'
     }
   },
   computed: {
     num () {
-      return (5+5)
+      return (5 + 5)
     }
   }
 }
