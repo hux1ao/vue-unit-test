@@ -1,5 +1,5 @@
 # testkarma
-![图片](./static/单元测试/幻灯片1.jpg)
+![图片](./static/单元测试/幻灯片1.png)
 ![图片](./static/单元测试/幻灯片2.jpg)
 ![图片](./static/单元测试/幻灯片3.jpg)
 ![图片](./static/单元测试/幻灯片4.jpg)
