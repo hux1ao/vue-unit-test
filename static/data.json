@@ -1,0 +1,10 @@
+{
+  "status": true,
+  "code": 60000,
+  "data": {
+    "id": 1,
+    "username": "admin",
+    "password": 123456
+  },
+  "message": "操作成功"
+}
